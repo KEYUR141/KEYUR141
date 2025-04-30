@@ -16,8 +16,8 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=KEYUR141&limit=5&theme=radical&combine_all_yearly_contributions=true)
-[![Web Scrapper using Django](https://github-readme-stats.vercel.app/api/pin/?username=KEYUR141&repo=Web-Scrapper-using-Django&theme=radical)](https://github.com/KEYUR141/Web-Scrapper-using-Django)
-[![Stock Data Analysis using Python](https://github-readme-stats.vercel.app/api/pin/?username=KEYUR141&repo=Stock_Data_Analysis_using_Python&theme=radical)](https://github.com/KEYUR141/Stock_Data_Analysis_using_Python)
+<!--[![Web Scrapper using Django](https://github-readme-stats.vercel.app/api/pin/?username=KEYUR141&repo=Web-Scrapper-using-Django&theme=radical)](https://github.com/KEYUR141/Web-Scrapper-using-Django)
+[![Stock Data Analysis using Python](https://github-readme-stats.vercel.app/api/pin/?username=KEYUR141&repo=Stock_Data_Analysis_using_Python&theme=radical)](https://github.com/KEYUR141/Stock_Data_Analysis_using_Python) -->
 
 
 ### 🧠 LeetCode Stats:
