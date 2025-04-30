@@ -17,9 +17,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=KEYUR141&limit=5&theme=radical&combine_all_yearly_contributions=true)
 ### 🧠 LeetCode Stats:
-![LeetCode Stats](https://leetcard.jacoblin.cool/KEY_WINTY141?theme=dark&font=baloo&extension=activity)
-### 🧩 HackerRank Profile:
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866.svg?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/your_hackerrank_username)
+![](https://leetcard.jacoblin.cool/leetcode?site=cn)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=KEYUR141&icon=0&color=0)](https://visitcount.itsvg.in)
