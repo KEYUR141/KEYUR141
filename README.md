@@ -31,6 +31,16 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=KEYUR141&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 🚀 My GitHub Activity
+
+### 📦 Pull Requests
+[![Pull Requests](https://img.shields.io/badge/My%20PRs-View%20on%20GitHub-blue?logo=github)](https://github.com/pulls?q=is%3Apr+author%3AKEYUR141)
+
+### 🐛 Issues
+[![Issues](https://img.shields.io/badge/My%20Issues-View%20on%20GitHub-orange?logo=github)](https://github.com/issues?q=author%3AKEYUR141)
+
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!---
