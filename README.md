@@ -2,9 +2,9 @@
 
 # Hi, I'm Keyur Sherke
 
-## AI Engineer | LLM Systems | RAG | Backend Engineering | Cloud
+## AI Engineer | RAG, LLM Systems, Backend Engineering & Cloud
 
-I build practical AI systems by combining **LLMs, retrieval, scalable APIs, and cloud infrastructure**.
+### I build AI systems for the real world, where the data is never clean and the bugs always want to negotiate.
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keyursherke2005@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/keyur-sherke/)
@@ -21,7 +21,10 @@ I am a passionate **AI Engineer** and final-year Computer Science student focuse
 # Technical Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,js,cpp,neo4j,postgres,mysql,mongodb,sqlite,docker,gcp,git,github,postman&perline=8" alt="Technical skills" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,js,cpp&perline=5" alt="Languages and backend skills" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original.svg" width="48" height="48" alt="Neo4j" title="Neo4j" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,docker,gcp,git,github,postman&perline=9" alt="Database, cloud, and development tools" />
 </p>
 
 <p align="center">
