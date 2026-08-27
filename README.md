@@ -2,9 +2,9 @@
 
 # Hi, I'm Keyur Sherke
 
-### AI Engineer | LLM Systems • RAG • Backend Engineering • Cloud
+## AI Engineer | LLM Systems | RAG | Backend Engineering | Cloud
 
-I build intelligent, production-oriented applications that combine **LLMs, retrieval systems, robust APIs, and cloud infrastructure**. I'm a Computer Science undergraduate who enjoys turning AI research and ideas into useful, deployable products.
+I build practical AI systems by combining **LLMs, retrieval, scalable APIs, and cloud infrastructure**.
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:keyursherke2005@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/keyur-sherke/)
@@ -13,72 +13,36 @@ I build intelligent, production-oriented applications that combine **LLMs, retri
 
 </div>
 
-## About Me
+# About Me
 
-- Pursuing a **B.Tech in Computer Science and Engineering** at G. H. Raisoni University (2023–2027)
-- Building with **RAG, LLMs, vector databases, AI agents, and semantic search**
-- Experienced in developing backend systems with **Django, FastAPI, and REST APIs**
-- Comfortable deploying containerized applications on **Google Cloud**
-- Currently exploring **transformer internals, LLM fine-tuning, and reliable AI systems**
+I am a passionate **AI Engineer** and final-year Computer Science student focused on building useful, production-ready AI applications.
 
-## Featured Projects
-
-### [Oral Cancer X — AI Integrated Research System](https://github.com/KEYUR141/Oral-Cancer-X-AI-Integrated-Solution)
-
-A medical research platform that makes oral-cancer literature easier to explore through grounded AI answers and an interactive embedding-space visualization.
-
-- Built a medical RAG system over **4,666 peer-reviewed research embeddings** using PubMedBERT and pgvector
-- Created a resumable ingestion pipeline that processed **146 papers, 79 open-access PDFs, and 403 figure captions**
-- Developed a FastAPI and Gemini-powered answer layer plus a Three.js 3D embedding explorer
-- **Stack:** FastAPI, Gemini, PubMedBERT, PostgreSQL, pgvector, UMAP, Three.js
-
-### [AI Resume Recommendation Engine](https://github.com/KEYUR141/AI-Resume-Recommendation-Engine)
-
-An AI recommendation system that analyzes resumes and identifies suitable career domains through semantic retrieval.
-
-- Designed a RAG-based resume-to-domain matching workflow using FAISS vector search
-- Built Django REST Framework APIs for resume parsing, embedding, retrieval, and ranking
-- Generated context-aware career recommendations from resume content
-- **Stack:** Python, Django REST Framework, RAG, FAISS, NLP
-
-## Technical Skills
-
-### Languages & Backend
+# Technical Skills
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,fastapi,js,cpp,java&perline=6" alt="Python, Django, FastAPI, JavaScript, C++, and Java" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,js,cpp,java,postgres,mysql,mongodb,sqlite,docker,gcp,git,github,postman&perline=8" alt="Technical skills" />
 </p>
-
-### Databases, Cloud & Tools
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,docker,gcp,git,github,postman&perline=9" alt="PostgreSQL, MySQL, MongoDB, SQLite, Docker, Google Cloud, Git, GitHub, and Postman" />
-  </a>
+  <strong>RAG | LLM Systems | FAISS | pgvector | Gemini API | Google ADK | NLP | Prompt Engineering</strong>
 </p>
 
-### AI & Vector Systems
+# Featured Projects
+
+## [Oral Cancer X](https://github.com/KEYUR141/Oral-Cancer-X-AI-Integrated-Solution)
+
+Medical RAG system built over **4,666 research embeddings**, with grounded answers and an interactive 3D embedding explorer.
+
+`FastAPI` `Gemini` `PubMedBERT` `PostgreSQL` `pgvector` `Three.js`
+
+## [AI Resume Recommendation Engine](https://github.com/KEYUR141/AI-Resume-Recommendation-Engine)
+
+Semantic resume analysis and career-domain recommendation system powered by RAG and vector search.
+
+`Python` `Django REST Framework` `FAISS` `RAG` `NLP`
+
+# GitHub Activity
 
 <p align="center">
-
-`RAG` · `LLM Systems` · `FAISS` · `pgvector` · `Gemini API` · `Google ADK` · `NLP` · `Prompt Engineering` · `LLM Fine-Tuning`
-
+  <img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KEYUR141&theme=tokyonight" alt="Keyur's GitHub statistics" />
 </p>
-
-## GitHub Activity
-
-<div align="center">
-
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KEYUR141&theme=tokyonight" alt="Keyur's GitHub statistics" />
-
-</div>
-
----
-
-<div align="center">
-
-### Let's build something meaningful with AI.
-
-</div>
