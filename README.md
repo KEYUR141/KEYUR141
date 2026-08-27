@@ -6,10 +6,11 @@
 
 I build practical AI systems by combining **LLMs, retrieval, scalable APIs, and cloud infrastructure**.
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:keyursherke2005@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/keyur-sherke/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/KEY_WINTY141/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/keyur_sherke_cse)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keyursherke2005@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/keyur-sherke/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/KEY_WINTY141/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/keyur_sherke_cse)
+[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/keyur-sherke/badges/credly)
 
 </div>
 
@@ -20,7 +21,7 @@ I am a passionate **AI Engineer** and final-year Computer Science student focuse
 # Technical Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,js,cpp,java,postgres,mysql,mongodb,sqlite,docker,gcp,git,github,postman&perline=8" alt="Technical skills" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,js,cpp,neo4j,postgres,mysql,mongodb,sqlite,docker,gcp,git,github,postman&perline=8" alt="Technical skills" />
 </p>
 
 <p align="center">
