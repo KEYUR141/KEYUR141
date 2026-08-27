@@ -71,10 +71,7 @@ An AI recommendation system that analyzes resumes and identifies suitable career
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KEYUR141&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Keyur's GitHub statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KEYUR141&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Keyur's most used languages" />
-
-<img src="https://streak-stats.demolab.com?user=KEYUR141&theme=tokyonight&hide_border=true" alt="Keyur's GitHub contribution streak" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KEYUR141&theme=tokyonight" alt="Keyur's GitHub statistics" />
 
 </div>
 
